@@ -1,0 +1,5 @@
+Endpoints:
+Reverse Geocode: https://maps.googleapis.com/maps/api/geocode/json?latlng=57.707820%2C%2011.974442&key=AIzaSyDBHohfUzlKCPKkoDva8Q4-wLgNqiq0zic
+Geocode:  https://maps.googleapis.com/maps/api/geocode/json?address=Gothenburg%2C%20Sweden&key=AIzaSyDBHohfUzlKCPKkoDva8Q4-wLgNqiq0zic
+Places: https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJPwdslmeOT0YRQHwOKXiQAQQ&key=AIzaSyDBHohfUzlKCPKkoDva8Q4-wLgNqiq0zic
+Place Photos: https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRaAAAA4-DFysP1yEjbL8gKrhjwnysQ4NCPvkG6wzTsvQnLP2U2yy5RzTGizXrejqbf7Na-utModVDe98X02wZe5tVYPUKu_i3N84n6f_qkJqpvtUNYQ-Dp1gDCRFQY51IvaYgOEhC7eQgQgVWeOzMtaaDsqEKTGhSv0xkKX2Xv2yB0XRrqSJt5fDvQhQ&key=AIzaSyDBHohfUzlKCPKkoDva8Q4-wLgNqiq0zic
